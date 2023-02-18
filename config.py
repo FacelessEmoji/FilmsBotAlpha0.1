@@ -1,5 +1,5 @@
-tokenTest = "5850863890:AAEcRf9oCRKTcpTWI480JqL-GnTT-t4fSH8"
-token = "5953016522:AAHH3sBEV2QI0nCip3B7JXIUuSZmLKtTRCs"
+tokenTest = "token"
+token = "token"
 
 admins = [683422959, 1130656185]
 
